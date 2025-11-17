@@ -1,1 +1,0 @@
-# codeaorta-synthetic-repo-1
